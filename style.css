@@ -20,7 +20,7 @@ body, html, ul, li, img, div{
     list-style:none;
     display:flex;
     animation-name: slide;
-    animation-duration:10s;
+    animation-duration:15s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in;
         
